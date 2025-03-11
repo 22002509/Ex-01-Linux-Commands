@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-
-
+# Name:Prasanna R
+# RegNo: 212222040120
 ## Aim:
 
 To study the execution of various Linux operating system commands.
